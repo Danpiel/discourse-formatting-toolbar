@@ -1,0 +1,13 @@
+en:
+  site_settings:
+    formattingtlb_ui: 'Активировать панель форматирования ?'
+    formattingtlb_underline: 'Активировать кнопку подчёркивания'
+    formattingtlb_addimg: 'Активировать кнопку картинки'
+    formattingtlb_floatl: 'Активировать кнопку текста с картинкой слева'
+    formattingtlb_floatr: 'Активировать кнопку текста с картинкой справа'
+    formattingtlb_left: 'Активировать кнопку выравнивания по левому краю'
+    formattingtlb_center: 'Активировать кнопку центрования'
+    formattingtlb_right: 'Активировать кнопку выравнивания по правому краю'
+    formattingtlb_justify: 'Активировать кнопку заполнения'
+    formattingtlb_color: 'Активировать кнопку изменения цвета'
+    formattingtlb_size: 'Активировать кнопку изменения размера'

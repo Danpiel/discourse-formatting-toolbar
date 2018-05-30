@@ -8,6 +8,7 @@ enabled_site_setting :formattingtlb_ui
 enabled_site_setting :formattingtlb_underline
 enabled_site_setting :formattingtlb_addimg
 enabled_site_setting :formattingtlb_floatl
+enabled_site_setting :formattingtlb_floatr
 enabled_site_setting :formattingtlb_left
 enabled_site_setting :formattingtlb_center
 enabled_site_setting :formattingtlb_right

@@ -39,6 +39,17 @@ function initializePlugin(api)
       });
     }
 
+    if (siteSettings.formattingtlb_floatr) {
+      api.onToolbarCreate(toolbar => {
+        toolbar.addButton({
+          id: "floatr_ui_button",
+          group: "extras",
+          icon: "outdent",
+          perform: e => e.applySurround('[floatr]', '[/floatr]', 'floatr_ui_default_text')
+        });
+      });
+    }
+
     if (siteSettings.formattingtlb_left) {
       api.onToolbarCreate(toolbar => {
         toolbar.addButton({

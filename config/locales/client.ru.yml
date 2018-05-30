@@ -1,0 +1,23 @@
+en:
+  js:
+    composer:
+      underline_ui_button_title: "Подчеркнуть текст"
+      underline_ui_default_text: "Текст"
+      color_ui_button_title: "Покрасить текст"
+      color_ui_default_text: "Текст"
+      addimg_ui_button_title: "Добавить картинку"
+      addimg_ui_default_text: "http://"
+      floatl_ui_button_title: "Добавить контент с картинкой слева"
+      floatl_ui_default_text: "Картинка"
+      floatr_ui_button_title: "Добавить контент с картинкой справа"
+      floatr_ui_default_text: "Картинка"
+      left_ui_button_title: "Выравнять по левой второне"
+      left_ui_default_text: "Текст"
+      center_ui_button_title: "Центрировать текст"
+      center_ui_default_text: "Текст"
+      right_ui_button_title: "Выравнивать по правой стороне"
+      right_ui_default_text: "Текст"
+      justify_ui_button_title: "Заполнять текстом"
+      justify_ui_default_text: "Текст"
+      size_ui_button_title: "Изменить размер текста"
+      size_ui_default_text: "Text"

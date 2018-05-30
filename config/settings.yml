@@ -11,6 +11,9 @@ plugins:
   formattingtlb_floatl:
     default: true
     client: true
+  formattingtlb_floatr:
+    default: true
+    client: true
   formattingtlb_left:
     default: true
     client: true
