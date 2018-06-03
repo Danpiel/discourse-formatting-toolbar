@@ -44,7 +44,8 @@ function initializePlugin(api)
         toolbar.addButton({
           id: "floatr_ui_button",
           group: "extras",
-          icon: "outdent",
+          icon: "indent",
+          data-fa-transform: "flip-h",
           perform: e => e.applySurround('[floatr]', '[/floatr]', 'floatr_ui_default_text')
         });
       });
